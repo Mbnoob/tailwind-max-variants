@@ -17,7 +17,7 @@ Tailwind CSS already makes responsive design a breeze with its built-in min-widt
 
 - **Seamless Integration:** Works with all Tailwind utilities—use your favorite classes along with the new inverse variants.
 
-- **TypeScript Support:** Written in TypeScript with clear type definitions, so you get reliable and predictable behavior when using or extending the plugin.
+- **TypeScript Support:** Written in TypeScript with clear definitions, you get reliable and predictable behavior when using or extending the plugin.
 
 - **Developer Friendly:** If your Tailwind configuration isn’t set up properly (e.g. if screens are missing), you get a descriptive error message to help you debug.
 
