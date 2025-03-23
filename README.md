@@ -34,9 +34,6 @@ or
 ```
     
 ## Usage
-![Tailwind-plugin-gif-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5515777d-3a2c-4782-b8c1-675bbd2c04da)
-
-
 After installing, add the plugin to your `tailwind.config.js` file:
 
 ```javascript
@@ -89,7 +86,7 @@ By using ES6 module,
 }
 ```
 ## Demo
-
+![Tailwind-plugin-gif-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5515777d-3a2c-4782-b8c1-675bbd2c04da)
 
 ## 🚀 About Me
 I'm a full stack developer with 3+ years of experience. currently working at [Oxbow-Intellect](https://oxbowintellect.com/).
