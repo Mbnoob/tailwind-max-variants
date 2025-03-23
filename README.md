@@ -20,6 +20,10 @@ Tailwind CSS already makes responsive design a breeze with its built-in min-widt
 - **TypeScript Support:** Written in TypeScript with clear type definitions, so you get reliable and predictable behavior when using or extending the plugin.
 
 - **Developer Friendly:** If your Tailwind configuration isn’t set up properly (e.g. if screens are missing), you get a descriptive error message to help you debug.
+
+## Demo
+![Tailwind-plugin-gif-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5515777d-3a2c-4782-b8c1-675bbd2c04da)
+
 ## Installation
 
 You can install the plugin via npm or yarn:
@@ -85,8 +89,6 @@ By using ES6 module,
   ],
 }
 ```
-## Demo
-
 
 ## 🚀 About Me
 I'm a full stack developer with 3+ years of experience. currently working at [Oxbow-Intellect](https://oxbowintellect.com/).
