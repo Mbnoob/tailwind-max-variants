@@ -1,7 +1,7 @@
 {
   "name": "tailwind-max-variants",
   "description": "A Tailwind CSS plugin that adds max-* responsive variants for each configured screen size.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
