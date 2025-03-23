@@ -1,4 +1,4 @@
-# tailwind-max-variants
+![Tailwind-plugin-gif-ezgif com-resize (1)](https://github.com/user-attachments/assets/a2b795f7-763c-4c5a-b7ab-8baeb04ac356)# tailwind-max-variants
 
 A handy Tailwind CSS plugin that automatically generates `max-*` responsive variants for every breakpoint defined in your Tailwind theme. Now you can effortlessly style elements based on viewport sizes *below* your breakpoints (e.g. `max-md:text-lg`) without writing custom media queries!
 
@@ -17,12 +17,13 @@ Tailwind CSS already makes responsive design a breeze with its built-in min-widt
 
 - **Seamless Integration:** Works with all Tailwind utilities—use your favorite classes along with the new inverse variants.
 
-- **TypeScript Support:** Written in TypeScript with clear type definitions, so you get reliable and predictable behavior when using or extending the plugin.
+- **TypeScript Support:** Written in TypeScript with clear definitions, you get reliable and predictable behavior when using or extending the plugin.
 
 - **Developer Friendly:** If your Tailwind configuration isn’t set up properly (e.g. if screens are missing), you get a descriptive error message to help you debug.
 
 ## Demo
-![Tailwind-plugin-gif-ezgif com-resize](https://github.com/user-attachments/assets/40f75bd9-ecb4-488e-ace8-77d0206775f3)
+![Tailwind-plugin-gif-ezgif com-resize (1)](https://github.com/user-attachments/assets/896a84c5-f714-43f5-9408-a7ff0f9b719d)
+
 
 ## Installation
 
