@@ -22,7 +22,7 @@ Tailwind CSS already makes responsive design a breeze with its built-in min-widt
 - **Developer Friendly:** If your Tailwind configuration isn’t set up properly (e.g. if screens are missing), you get a descriptive error message to help you debug.
 
 ## Demo
-![Tailwind-plugin-gif-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5515777d-3a2c-4782-b8c1-675bbd2c04da)
+![Tailwind-plugin-gif-ezgif com-resize](https://github.com/user-attachments/assets/40f75bd9-ecb4-488e-ace8-77d0206775f3)
 
 ## Installation
 
