@@ -8,6 +8,9 @@
   "type": "module",
   "license": "MIT",
   "author": "Debayan Bain",
+  "repository": {
+    "url": "https://github.com/Mbnoob/tailwind-max-variants.git"
+  },
   "scripts": {
     "build": "tsup"
   },
